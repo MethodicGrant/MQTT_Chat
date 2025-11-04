@@ -1,18 +1,20 @@
-General Instructions 
+General Instructions: 
+
 Flash SD Card with 64bit RasPI OS lite using the RPI flash tool
 When flashing select the allow SSH option unless you have keyboard/mouse/display for the PI zero
 Make sure you remember the username and password for the PI 
 After flashing your SD Card make sure you install it into the PI and connect power
 
 
-FOR HEADLESS SETUP
+FOR HEADLESS SETUP:
+
 On your computer open a CMD/Terminal
 use the following command to connect ssh PIUSERNAME@raspberrypi.local #you can have a differnt host name if you changed it during flashing. this is for the default hostname. replace "PIUSERNAME" with the username you setup
 CMD will prompt you for a Yes/No select Yes
 Upon connction it will ask for a password. This is the password you set during the setup in the flash tool. Key in your password and press enter. The terminal line will appear blank and the cursor will not move this is normal.
 You should get a username@hostname.local in green upon connection.
 
-FOR KEYBOARD/MOUSE/DISPLAY SETUP SKIP TO NEXT SECTION
+FOR KEYBOARD/MOUSE/DISPLAY SETUP SKIP TO NEXT SECTION:
 
 UPON CONNECTION
 Once connected run the collowing commands:
