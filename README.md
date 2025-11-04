@@ -1,7 +1,7 @@
 General Instructions: 
 
 Flash SD Card with 64bit RasPI OS lite using the RPI flash tool
-MAKE SURE YOU SETUP YOUR WIFI DURING THE FLASHING PROCESS IF YOU ARE FOING A HEADLESS SETUP
+MAKE SURE YOU SETUP YOUR WIFI DURING THE FLASHING PROCESS IF YOU ARE DOING A HEADLESS SETUP
 When flashing select the allow SSH option unless you have keyboard/mouse/display for the PI zero
 Make sure you remember the username and password for the PI 
 After flashing your SD Card make sure you install it into the PI and connect power
